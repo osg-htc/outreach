@@ -16,3 +16,4 @@ markdown_extensions:
 
 pages:
   - OSG Outreach Home: index.md
+  - OSG School Archive: past-schools.md
