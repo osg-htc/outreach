@@ -1,13 +1,18 @@
-site_name: OSG Outreach
+site_name: OSG Outreach Area
 site_url: https://opensciencegrid.github.io/outreach/
-repo_url: https://github.com/opensciencegrid/outreach/
+repo_name: null
+repo_url: null
 theme:
-  name: readthedocs
+  name: windmill
 
-pages:
-  - Home: 'index.md'
+extra:
+  article_nav_top: false
+
+# Suppress weird JavaScript problems with development server
+extra_javascript: []
 
 markdown_extensions:
   - admonition
-  - codehilite
-  - toc(permalink=true)
+
+pages:
+  - OSG Outreach Home: index.md
