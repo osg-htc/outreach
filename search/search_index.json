@@ -24,6 +24,16 @@
             "location": "/#osg-outreach-team", 
             "text": "Kyle Gross , OSG Outreach Coordinator.  Tim Cartwright , OSG User School lead.", 
             "title": "OSG Outreach Team"
+        }, 
+        {
+            "location": "/past-schools/", 
+            "text": "Past OSG User and Summer Schools\n\n\nStarting in 2018, the website that hosted the OSG User Schools and (original) OSG Summer Schools from 2010 through 2017\nwas shut down.  The \nOSG User School 2017\n and later are hosted on a\nnew platform.\n\n\nDue to the effort required to convert the old website content to the new system, we have no plans to convert the OSG\nUser and Summer Schools from 2010 through 2016 to the new system.  If you want to refer to School presentations or\nexercises, please use the ones from the most recent School.  If there is something that you feel is missing from the\nmore up-to-date materials, just contact us at user-school@opensciencegrid.org and we will do our best to help you.", 
+            "title": "OSG School Archive"
+        }, 
+        {
+            "location": "/past-schools/#past-osg-user-and-summer-schools", 
+            "text": "Starting in 2018, the website that hosted the OSG User Schools and (original) OSG Summer Schools from 2010 through 2017\nwas shut down.  The  OSG User School 2017  and later are hosted on a\nnew platform.  Due to the effort required to convert the old website content to the new system, we have no plans to convert the OSG\nUser and Summer Schools from 2010 through 2016 to the new system.  If you want to refer to School presentations or\nexercises, please use the ones from the most recent School.  If there is something that you feel is missing from the\nmore up-to-date materials, just contact us at user-school@opensciencegrid.org and we will do our best to help you.", 
+            "title": "Past OSG User and Summer Schools"
         }
     ]
 }
