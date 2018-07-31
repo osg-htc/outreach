@@ -34,7 +34,7 @@
       var is_top_frame = (window === window.parent);
         
         var pageToc = [
-          {title: "OSG Outreach Area", url: "#osg-outreach-area", children: [
+          {title: "OSG Outreach Area", url: "#_top", children: [
               {title: "OSG User School", url: "#osg-user-school" },
               {title: "Other Resources", url: "#other-resources" },
               {title: "OSG Outreach Team", url: "#osg-outreach-team" },
@@ -42,9 +42,7 @@
         ];
 
     </script>
-    <script src="./js/base.js"></script>
-      <script src="./search/require.js"></script>
-      <script src="./search/search.js"></script> 
+    <script src="./js/base.js"></script> 
 </head>
 
 <body>
@@ -62,7 +60,7 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
           ><i class="fa fa-search" aria-hidden="true"></i></button>
 
         <div class="input-group input-group-sm wm-top-search">
-          <input type="text" name="q" class="form-control" id="mkdocs-search-query" placeholder="Search">
+          <input type="text" name="q" class="form-control" id="mkdocs-search-query" placeholder="Search" autocomplete="off">
           <span class="input-group-btn" role="search">
             
             <button class="btn btn-default dropdown-toggle collapse" data-toggle="dropdown" type="button"><span class="caret"></span></button>
@@ -110,6 +108,7 @@ if (is_top_frame) { $('body').addClass('wm-top-page'); }
   </div>
 
 <div class="container-fluid wm-page-content">
+  <a name="_top"></a>
     
 
     <h1 id="osg-outreach-area">OSG Outreach Area</h1>
@@ -162,6 +161,6 @@ tools.  It is held each summer at the University of Wisconsin–Madison.</p>
 </body>
 </html>
 <!--
-MkDocs version : 0.17.1
-Build Date UTC : 2018-06-19 14:44:17
+MkDocs version : 0.17.5
+Build Date UTC : 2018-07-31 21:56:32
 -->
