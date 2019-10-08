@@ -1,28 +1,28 @@
 {
     "docs": [
         {
-            "location": "/", 
-            "text": "OSG Outreach Area\n\n\nThe goal of the Open Science Grid (OSG) Outreach area is to inform people about Distributed High Throughput Computing\n(DHTC) and other topics related to the OSG mission.\n\n\nOSG User School\n\n\nThe OSG runs the OSG User School, an annual education event for researchers who want to learn to use DHTC methods and\ntools.  It is held each summer at the University of Wisconsin\u2013Madison.\n\n\n\n\n2019 OSG User School\n \u2014 15\u201319 July 2019\n\n\n2018 OSG User School\n \u2014 9\u201313 July 2018\n\n\n2017 OSG User School\n \u2014 17\u201321 July 2017\n\n\n2016 OSG User School\n \u2014 25\u201329 July 2016\n\n\n2015 OSG User School\n \u2014 27\u201331 July 2015\n\n\n2014 OSG User School\n \u2014 7\u201310 July 2014\n\n\n2013 OSG User School\n \u2014 24\u201327 June 2013\n\n\n2012 OSG User School\n \u2014 25\u201328 June 2012\n\n\n2011 OSG Summer School\n \u2014 26\u201330 June 2011\n\n\n2010 OSG Summer School\n \u2014 19\u201322 July 2010", 
+            "location": "/",
+            "text": "OSG Outreach Area\n\n\nThe goal of the Open Science Grid (OSG) Outreach area is to inform people about Distributed High Throughput Computing\n(DHTC) and other topics related to the OSG mission.\n\n\nOSG User School\n\n\nThe OSG runs the OSG User School, an annual education event for researchers who want to learn to use DHTC methods and\ntools.  It is held each summer at the University of Wisconsin\u2013Madison.\n\n\n\n\n2019 OSG User School\n \u2014 15\u201319 July 2019\n\n\n2018 OSG User School\n \u2014 9\u201313 July 2018\n\n\n2017 OSG User School\n \u2014 17\u201321 July 2017\n\n\n2016 OSG User School\n \u2014 25\u201329 July 2016\n\n\n2015 OSG User School\n \u2014 27\u201331 July 2015\n\n\n2014 OSG User School\n \u2014 7\u201310 July 2014\n\n\n2013 OSG User School\n \u2014 24\u201327 June 2013\n\n\n2012 OSG User School\n \u2014 25\u201328 June 2012\n\n\n2011 OSG Summer School\n \u2014 26\u201330 June 2011\n\n\n2010 OSG Summer School\n \u2014 19\u201322 July 2010",
             "title": "OSG Outreach Home"
-        }, 
+        },
         {
-            "location": "/#osg-outreach-area", 
-            "text": "The goal of the Open Science Grid (OSG) Outreach area is to inform people about Distributed High Throughput Computing\n(DHTC) and other topics related to the OSG mission.", 
+            "location": "/#osg-outreach-area",
+            "text": "The goal of the Open Science Grid (OSG) Outreach area is to inform people about Distributed High Throughput Computing\n(DHTC) and other topics related to the OSG mission.",
             "title": "OSG Outreach Area"
-        }, 
+        },
         {
-            "location": "/#osg-user-school", 
-            "text": "The OSG runs the OSG User School, an annual education event for researchers who want to learn to use DHTC methods and\ntools.  It is held each summer at the University of Wisconsin\u2013Madison.   2019 OSG User School  \u2014 15\u201319 July 2019  2018 OSG User School  \u2014 9\u201313 July 2018  2017 OSG User School  \u2014 17\u201321 July 2017  2016 OSG User School  \u2014 25\u201329 July 2016  2015 OSG User School  \u2014 27\u201331 July 2015  2014 OSG User School  \u2014 7\u201310 July 2014  2013 OSG User School  \u2014 24\u201327 June 2013  2012 OSG User School  \u2014 25\u201328 June 2012  2011 OSG Summer School  \u2014 26\u201330 June 2011  2010 OSG Summer School  \u2014 19\u201322 July 2010", 
+            "location": "/#osg-user-school",
+            "text": "The OSG runs the OSG User School, an annual education event for researchers who want to learn to use DHTC methods and\ntools.  It is held each summer at the University of Wisconsin\u2013Madison.   2019 OSG User School  \u2014 15\u201319 July 2019  2018 OSG User School  \u2014 9\u201313 July 2018  2017 OSG User School  \u2014 17\u201321 July 2017  2016 OSG User School  \u2014 25\u201329 July 2016  2015 OSG User School  \u2014 27\u201331 July 2015  2014 OSG User School  \u2014 7\u201310 July 2014  2013 OSG User School  \u2014 24\u201327 June 2013  2012 OSG User School  \u2014 25\u201328 June 2012  2011 OSG Summer School  \u2014 26\u201330 June 2011  2010 OSG Summer School  \u2014 19\u201322 July 2010",
             "title": "OSG User School"
-        }, 
+        },
         {
-            "location": "/past-schools/", 
-            "text": "Past OSG User and Summer Schools\n\n\nStarting in 2018, the website that hosted the OSG User Schools and (original) OSG Summer Schools from 2010 through 2017\nwas shut down.  The \nOSG User School 2017\n and later are hosted on a\nnew platform.\n\n\nDue to the effort required to convert the old website content to the new system, we have no plans to convert the OSG\nUser and Summer Schools from 2010 through 2016 to the new system.  If you want to refer to School presentations or\nexercises, please use the ones from the most recent School.  If there is something that you feel is missing from the\nmore up-to-date materials, just contact us at user-school@opensciencegrid.org and we will do our best to help you.", 
+            "location": "/past-schools/",
+            "text": "Past OSG User and Summer Schools\n\n\nStarting in 2018, the website that hosted the OSG User Schools and (original) OSG Summer Schools from 2010 through 2017\nwas shut down.  The \nOSG User School 2017\n and later are hosted on a\nnew platform.\n\n\nDue to the effort required to convert the old website content to the new system, we have no plans to convert the OSG\nUser and Summer Schools from 2010 through 2016 to the new system.  If you want to refer to School presentations or\nexercises, please use the ones from the most recent School.  If there is something that you feel is missing from the\nmore up-to-date materials, just contact us at user-school@opensciencegrid.org and we will do our best to help you.",
             "title": "OSG School Archive"
-        }, 
+        },
         {
-            "location": "/past-schools/#past-osg-user-and-summer-schools", 
-            "text": "Starting in 2018, the website that hosted the OSG User Schools and (original) OSG Summer Schools from 2010 through 2017\nwas shut down.  The  OSG User School 2017  and later are hosted on a\nnew platform.  Due to the effort required to convert the old website content to the new system, we have no plans to convert the OSG\nUser and Summer Schools from 2010 through 2016 to the new system.  If you want to refer to School presentations or\nexercises, please use the ones from the most recent School.  If there is something that you feel is missing from the\nmore up-to-date materials, just contact us at user-school@opensciencegrid.org and we will do our best to help you.", 
+            "location": "/past-schools/#past-osg-user-and-summer-schools",
+            "text": "Starting in 2018, the website that hosted the OSG User Schools and (original) OSG Summer Schools from 2010 through 2017\nwas shut down.  The  OSG User School 2017  and later are hosted on a\nnew platform.  Due to the effort required to convert the old website content to the new system, we have no plans to convert the OSG\nUser and Summer Schools from 2010 through 2016 to the new system.  If you want to refer to School presentations or\nexercises, please use the ones from the most recent School.  If there is something that you feel is missing from the\nmore up-to-date materials, just contact us at user-school@opensciencegrid.org and we will do our best to help you.",
             "title": "Past OSG User and Summer Schools"
         }
     ]
