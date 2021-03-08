@@ -3,7 +3,7 @@ site_url: https://opensciencegrid.github.io/outreach/
 repo_name: null
 repo_url: null
 theme:
-  name: windmill
+  name: material
   custom_dir: theme-customizations
 
 extra:
@@ -15,6 +15,6 @@ extra_javascript: []
 markdown_extensions:
   - admonition
 
-pages:
+nav:
   - OSG Outreach Home: index.md
   - OSG School Archive: past-schools.md
