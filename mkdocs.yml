@@ -17,4 +17,5 @@ markdown_extensions:
 
 nav:
   - OSG Outreach Home: index.md
+  - OSG David Swanson Award: swanson-award.md
   - OSG School Archive: past-schools.md
