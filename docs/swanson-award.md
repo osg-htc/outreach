@@ -13,9 +13,9 @@ the OSG All-Hands Meeting to present their work.
 
 ## Award Recipients
 
-*   Nicholas Cooley, University of Pittsburgh;
+*   **Nicholas Cooley**, University of Pittsburgh &mdash;
     awarded and [presented](https://indico.fnal.gov/event/47040/contributions/208348/) in 2021
-*   Zhonggang (John) Li, University of Wisconsin–Madison;
+*   **Zhonggang (John) Li**, University of Wisconsin–Madison &mdash;
     awarded in 2020 and [presented](https://indico.fnal.gov/event/47040/contributions/208347/) in 2021
-*   Anirvan Shukla, University of Hawaiʻi at Mānoa &mdash;
+*   **Anirvan Shukla**, University of Hawaiʻi at Mānoa &mdash;
     awarded and [presented](https://indico.fnal.gov/event/22127/contributions/194478/) in 2020
