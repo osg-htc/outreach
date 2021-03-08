@@ -1,8 +1,0 @@
-language: python
-
-install:
-  - pip install -r ci/pip-requirements.txt
-  - pip install mkdocs-windmill
-
-script:
-  - ./ci/deploy
