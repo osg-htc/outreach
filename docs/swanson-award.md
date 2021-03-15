@@ -1,6 +1,9 @@
 # OSG David Swanson Award
 
-The OSG David Swanson Award was established to honor our late colleague, David Swanson. David contributed to campus research across the country, through the advancement of DHTC and the Open Science Grid. 
+<figure class="figure">
+  <img src="{{site.baseurl}}/assets/images/osg-user-school-2018.png" class="figure-img img-fluid rounded" alt="David Swanson">
+  <figcaption class="figure-caption">David Swanson.</figcaption>
+</figure>The OSG David Swanson Award was established to honor our late colleague, David Swanson. David contributed to campus research across the country, through the advancement of DHTC and the Open Science Grid. 
 
 Brian Bockelman, who was mentored by David, noted that David was the founding director of the Holland Computing Center at the University of Nebraska-Lincoln and a tireless advocate for the Open Science Grid.  Through his leadership, Nebraska went from simple “users” of the OSG to having team members become part of the OSG management.  David himself ultimately went on to become the OSG Council Chair in 2015 (JLS: he was council chair in 2015 -is this the start date) and helped steer the OSG through his calm, steady influence.  Beyond his formal appointments, he was a close friend and mentor to many in the OSG community and always available to provide well-needed insight and thoughts to others.
 
