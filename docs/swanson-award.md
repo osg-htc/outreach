@@ -3,11 +3,12 @@
 <figure class="figure">
   <img src="https://opensciencegrid.github.io/outreach/blob/master/docs/img/DavidSwanson.png" class="figure-img img-fluid rounded" alt="David Swanson">
   <figcaption class="figure-caption">David Swanson.</figcaption>
-</figure>The OSG David Swanson Award was established to honor our late colleague, David Swanson. David contributed to campus research across the country, through the advancement of DHTC and the Open Science Grid. 
+</figure>
+The OSG David Swanson Award was established to honor our late colleague, David Swanson. David contributed to campus research across the country, through the advancement of distributed high-throughput computing (dHTC) and the Open Science Grid (OSG). 
 
 "David was the founding director of the Holland Computing Center at the University of Nebraska-Lincoln and a tireless advocate for the Open Science Grid," reported Brian Bockelman, who David mentored.  "Through his leadership, Nebraska went from simple 'users' of the OSG to having team members become part of the OSG management.  David himself ultimately went on to become the OSG Council Chair in 2015 (JLS: he was council chair in 2015 -is this the start date) and helped steer the OSG through his calm, steady influence.  Beyond his formal appointments, he was a close friend and mentor to many in the OSG community and always available to provide well-needed insight and thoughts to others."
 
-David passed away in an accident in fall 2019 and, in his memory the award is bestowed annually upon one or more former students of the OSG User School who have subsequently achieved significant DHTC-enabled research outcomes, and covers the recipient's costs of attending the OSG All-Hands Meeting to present their work. Of course, given the pandemic, we will welcome awardees from 2020 and 2021 at the next in-person meeting. In the meantime their work was presented virtually at the 2020 and 2021 All-Hands Meeting.  
+David passed away in an accident in fall 2019 and, in his memory, the award is bestowed annually upon one or more former students of the OSG User School who have subsequently achieved significant DHTC-enabled research outcomes, and covers the recipient's costs of attending the OSG All-Hands Meeting to present their work. Of course, given the pandemic, we will welcome awardees from 2020 and 2021 at the next in-person meeting. In the meantime their work was presented virtually at the 2020 and 2021 All-Hands Meeting.  
 
 >## Award Recipients
 
@@ -25,7 +26,7 @@ John Li, of the University of Wisconsin-Madison. attended the OSG User School in
 
 Nick Cooley, this year's 2021 recipient of the David Swanson Award, attended the OSG User School in 2018. Since that time, Nick and his group at the University of Pittsburgh have undertaken a number of projects benefiting from DHTC and OSG capabilities, with more than 2 million hours of compute usage on the Open Science Pool in the last year. Nick discussed [his work](https://indico.fnal.gov/event/47040/contributions/208348/) computational biology on OSG. 
 
-Anirvan Shukla, a 2020 award recipient, was a graduate student in the Department of Physics, University of Hawaii at Manoa and at the Septembe 2020 All-Hands Meeting spoke about ["Antimatter: Using High Throughput Computing to Study Very Rare Processes."](https://indico.fnal.gov/event/22127/contributions/194478/)
+Anirvan Shukla, a 2020 award recipient, was a graduate student in the Department of Physics, University of Hawaii at Manoa and at the September 2020 All-Hands Meeting spoke about ["Antimatter: Using High Throughput Computing to Study Very Rare Processes."](https://indico.fnal.gov/event/22127/contributions/194478/)
 
 
 
