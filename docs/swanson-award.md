@@ -1,7 +1,7 @@
 # OSG David Swanson Award
 
 <figure class="figure">
-  <img src="{{site.baseurl}}/jstathas/outreach/blob/master/docs/img/DavidSwanson.png" class="figure-img img-fluid rounded" alt="David Swanson">
+  <img src="{{site.baseurl}}/outreach/blob/master/docs/img/DavidSwanson.png" class="figure-img img-fluid rounded" alt="David Swanson">
   <figcaption class="figure-caption">David Swanson.</figcaption>
 </figure>The OSG David Swanson Award was established to honor our late colleague, David Swanson. David contributed to campus research across the country, through the advancement of DHTC and the Open Science Grid. 
 
