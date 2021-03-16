@@ -28,9 +28,3 @@ John Li, of the University of Wisconsin-Madison. attended the OSG User School in
 Nick Cooley, this year's 2021 recipient of the David Swanson Award, attended the OSG User School in 2018. Since that time, Nick and his group at the University of Pittsburgh have undertaken a number of projects benefiting from dHTC and OSG capabilities, with more than 2 million hours of compute usage on the Open Science Pool in the last year. Nick discussed [his work](https://indico.fnal.gov/event/47040/contributions/208348/)- computational biology on OSG. 
 
 Anirvan Shukla, a 2020 award recipient, was a graduate student in the Department of Physics, University of Hawaii at Manoa and at the September 2020 All-Hands Meeting spoke about ["Antimatter: Using High Throughput Computing to Study Very Rare Processes."](https://indico.fnal.gov/event/22127/contributions/194478/)
-
-
-
-
-
-
