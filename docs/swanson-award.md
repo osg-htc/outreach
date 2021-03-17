@@ -7,13 +7,13 @@ The OSG David Swanson Award was established to honor our late colleague, David S
 "David was the founding director of the Holland Computing Center at the University of Nebraska-Lincoln and a tireless advocate for the Open Science Grid," said Brian Bockelman, who David mentored.  "Through his leadership, Nebraska went from simple 'users' of the OSG to having team members become part of the OSG management.  David himself ultimately went on to become the OSG Council Chair in 2016 and helped steer the OSG through his calm, steady influence. Beyond his formal appointments, he was a close friend and mentor to many in the OSG community and always available to provide well-needed insight and thoughts to others."
 
 David passed away in an accident in fall 2019. In his memory the award is bestowed annually upon one or more former students of the OSG User School who have subsequently achieved significant dHTC-enabled research outcomes, and covers the recipient's costs of attending the OSG All-Hands Meeting to present their work.  
->## Award Recipients
+## Award Recipients
 
->>*   **Nicholas Cooley**, University of Pittsburgh &mdash;
-    >>awarded and [presented](https://indico.fnal.gov/event/47040/contributions/208348/) in 2021
->>*   **Zhonggang (John) Li**, University of Wisconsin–Madison &mdash;
-    >>awarded in 2020 and [presented](https://indico.fnal.gov/event/47040/contributions/208347/) in 2021
->>*   **Anirvan Shukla**, University of Hawaiʻi at Mānoa &mdash;
+*   **Nicholas Cooley**, University of Pittsburgh &mdash;
+    awarded and [presented](https://indico.fnal.gov/event/47040/contributions/208348/) in 2021
+*   **Zhonggang (John) Li**, University of Wisconsin–Madison &mdash;
+    awarded in 2020 and [presented](https://indico.fnal.gov/event/47040/contributions/208347/) in 2021
+*   **Anirvan Shukla**, University of Hawaiʻi at Mānoa &mdash;
     awarded and [presented](https://indico.fnal.gov/event/22127/contributions/194478/) in 2020
 
 
