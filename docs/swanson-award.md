@@ -8,14 +8,14 @@ The OSG David Swanson Award was established to honor our late colleague, David S
 
 David passed away in an accident in fall 2019 and, in his memory, the award is bestowed annually upon one or more former students of the OSG User School who have subsequently achieved significant DHTC-enabled research outcomes, and covers the recipient's costs of attending the OSG All-Hands Meeting to present their work. Of course, given the pandemic, we will welcome awardees from 2020 and 2021 at the next in-person meeting. In the meantime their work was presented virtually at the 2020 and 2021 All-Hands Meeting.  
 
->## Award Recipients
+## Award Recipients
 
->>*   **Nicholas Cooley**, University of Pittsburgh &mdash;
->>    awarded and [presented](https://indico.fnal.gov/event/47040/contributions/208348/) in 2021
->>*   **Zhonggang (John) Li**, University of Wisconsin–Madison &mdash;
->>    awarded in 2020 and [presented](https://indico.fnal.gov/event/47040/contributions/208347/) in 2021
->>*   **Anirvan Shukla**, University of Hawaiʻi at Mānoa &mdash;
->>   awarded and [presented](https://indico.fnal.gov/event/22127/contributions/194478/) in 2020
+*   **Nicholas Cooley**, University of Pittsburgh &mdash;
+    awarded and [presented](https://indico.fnal.gov/event/47040/contributions/208348/) in 2021
+*   **Zhonggang (John) Li**, University of Wisconsin–Madison &mdash;
+    awarded in 2020 and [presented](https://indico.fnal.gov/event/47040/contributions/208347/) in 2021
+*   **Anirvan Shukla**, University of Hawaiʻi at Mānoa &mdash;
+    awarded and [presented](https://indico.fnal.gov/event/22127/contributions/194478/) in 2020
 
 
 In March 2021, two David Swanson Award winners presented: John Li, a 2020 award recipient, who was unavailable to speak when the All Hands Meeting was rescheduled from March to September 2020 due to the pandemic, and this year's 2021 recipient, Nicholas Cooley.
