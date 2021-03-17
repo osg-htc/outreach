@@ -1,9 +1,6 @@
 # OSG David Swanson Award
 
-<figure class="figure">
-  <img src="https://opensciencegrid.github.io/outreach/blob/master/docs/img/DavidSwanson.png" class="figure-img img-fluid rounded" alt="David Swanson">
-  <figcaption class="figure-caption">David Swanson.</figcaption>
-</figure>
+![David Swanson](img/DavidSwanson.png)
 
 The OSG David Swanson Award was established to honor our late colleague, David Swanson. David contributed to campus research across the country, through the advancement of distributed high-throughput computing (dHTC) and the Open Science Grid (OSG). 
 
