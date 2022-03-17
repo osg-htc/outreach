@@ -8,6 +8,7 @@ The goal of the Open Science Grid (OSG) Outreach area is to inform people about 
 The OSG runs the OSG User School, an annual education event for researchers who want to learn to use DHTC methods and
 tools.  It is held each summer at the University of Wisconsin–Madison.
 
+- [OSG User School 2022](https://opensciencegrid.org/user-school-2022/) — 25–29 July 2022
 - [OSG Virtual School 2021](https://opensciencegrid.org/virtual-school-2021/) &mdash; 2&ndash;13 August 2021
 - [OSG Virtual School Pilot 2020](https://opensciencegrid.org/virtual-school-pilot-2020/) — 13&ndash;24 July 2020
 - [OSG User School 2020](https://opensciencegrid.org/user-school-2020/) — canceled due to COVID-19, see above instead
