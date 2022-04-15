@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
-     <loc>https://opensciencegrid.github.io/outreach/</loc>
-     <lastmod>2022-04-14</lastmod>
+     <loc>https://osg-htc.org/outreach/</loc>
+     <lastmod>2022-04-15</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://opensciencegrid.github.io/outreach/swanson-award/</loc>
-     <lastmod>2022-04-14</lastmod>
+     <loc>https://osg-htc.org/outreach/swanson-award/</loc>
+     <lastmod>2022-04-15</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://opensciencegrid.github.io/outreach/past-schools/</loc>
-     <lastmod>2022-04-14</lastmod>
+     <loc>https://osg-htc.org/outreach/past-schools/</loc>
+     <lastmod>2022-04-15</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
