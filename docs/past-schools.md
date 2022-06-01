@@ -1,7 +1,7 @@
 # Past OSG User and Summer Schools
 
 Starting in 2018, the website that hosted the OSG User Schools and (original) OSG Summer Schools from 2010 through 2017
-was shut down.  The [OSG User School 2017](https://opensciencegrid.org/user-school-2017) and later are hosted on a
+was shut down.  The [OSG User School 2017](https://osg-htc.org/user-school-2017) and later are hosted on a
 new platform.
 
 Due to the effort required to convert the old website content to the new system, we have no plans to convert the OSG

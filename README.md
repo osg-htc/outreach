@@ -2,12 +2,12 @@
 
 This repository contains the documents for the OSG Outreach Area.
 
-- [Github hosted](http://opensciencegrid.github.io/outreach/)
+- [Github hosted](http://osg-htc.org/outreach/)
 
 ## Other OSG documentation on Github
 
-- [OSG Council](https://opensciencegrid.github.io/council)
-- [OSG Production](https://opensciencegrid.github.io/production)
+- [OSG Council](https://osg-htc.org/council)
+- [OSG Production](https://osg-htc.org/production)
 
 ## Resources
 
